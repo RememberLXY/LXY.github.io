@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RememberLXY/LXY.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RememberLXY/LXY.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>刘星宇的第一个网页</title>
+  </head>
+  <body>
+    <h1>欢迎来到刘星宇的个人空间！！！！</h1>
+    <h2>亿点点自我介绍</h2>
+    <ol>
+      <li>姓名：刘星宇</li>
+      <li>性别：男</li>
+      <li>身高：185</li>
+      <li>爱好：刷视频（包括但不限于bilibili），追番（包括日漫国漫美漫），打游戏（英雄联盟minecraft等），看科幻小说,以及拍下身边所见的美好风景</li>
+      <li>性格：本人为慢熟型性格，在熟络后会很快成为无所不谈且可以互相关照朋友</li>
+     </ol>
+     <h2>说了这么多废话（不是）了，不来点图怎么能让大家认识我呢？</h2>
+     <h3>前方高能预警，非战斗成员请撤离（笑</h3>
+     <img scr="C:/Users/Desktop/大学的记忆/LIU.jpg"/>
+     <p>在开学前准备和开学后这一个多月的时间里，也有用拍照的形式留下一些迷人的景致</p>
+     <img scr="C:/Users/Desktop/大学的记忆/故宫1.jpg"/>
+     <img scr="C:/Users/Desktop/那年今日/1.jpg"/>  
+     <img scr="C:/Users/Desktop/那年今日/2.jpg"/>
+     <img scr="C:/Users/Desktop/那年今日/3.jpg"/>
+     <p>以及证明我老二次元身份（求同好！！）</p>
+     <img scr="C:/Users/Desktop/那年今日/01.jpg"/> 
+     <p>既然是大学做的个人空间，当然少不了这件开学以来让我印象最深的事儿：北大的猫都喜欢进书店的吗？！！！
+        有图为证！！</p>
+     <img scr="C:/Users/Desktop/那年今日/02.jpg"/>  
+     <img scr="C:/Users/Desktop/那年今日/03.jpg"/>  
+  </body>  
+    
