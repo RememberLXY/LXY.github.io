@@ -20,7 +20,7 @@
      <p>在开学前准备和开学后这一个多月的时间里，也有用拍照的形式留下一些迷人的景致</p>
      <img scr="001.jpg"/>
      <img scr="1.jpg"/>  
-     <img scr="2.jpg"/>
+     <img scr="http://phototj.photo.store.qq.com/psc?/V52Kbif21yRexH1CmwDd4NWLnJ0Bxxpr/ruAMsa53pVQWN7FLK88i5uTVP7gSHX6YkAH3nCU9hlwly*YBSH1R4aQ0.jw3FpqATUOSU31t608sQ6L3Hn56gFCEEItrduL7Umb95HYlnU0!/b&bo=VQhABlUIQAYRECc!&rf=viewer_311"/>
      <img scr="3.jpg"/>
      <p>以及证明我老二次元身份（求同好！！）</p>
      <img scr="01.jpg"> 
