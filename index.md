@@ -19,7 +19,7 @@
      <img scr="LIU.jpg"/>
      <p>在开学前准备和开学后这一个多月的时间里，也有用拍照的形式留下一些迷人的景致</p>
      <img scr="001.jpg"/>
-     <img scr="/1.jpg"/>  
+     <img scr="1.jpg"/>  
      <img scr="2.jpg"/>
      <img scr="3.jpg"/>
      <p>以及证明我老二次元身份（求同好！！）</p>
