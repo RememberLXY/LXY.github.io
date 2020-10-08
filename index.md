@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>刘星宇的第一个网页</title>
-    <link href="css.css"rel="stylesheet"type="text/css"/>
+    <link href="css"rel="stylesheet"type="text/css"/>
   </head>
   <body>
     <h1>欢迎来到刘星宇的个人空间！！！！</h1>
